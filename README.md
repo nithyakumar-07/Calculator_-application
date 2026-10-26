@@ -1,2 +1,2 @@
-# Calculator_-application
+# Calculator-application
 A Begginer friendly caculator application
